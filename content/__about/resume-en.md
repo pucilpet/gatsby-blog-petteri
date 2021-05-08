@@ -1,13 +1,13 @@
 ---
 title: 'about'
-date: 2019-1-27 16:21:13
+date: 2021-4-27 16:21:13
 lang: 'en'
 ---
 
-# Your name
+# Petteri Pucilowski
 
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+_Hello! My name is Petteri Pucilowski - welcome to my blog! I run an online retail business with my wife - the main focus is women's clothing and our main market is Finland. In this blog I will document my daily learnings regarding the online business and maybe I'll touch on my personal life, too. If you have any questions, please email_
 
 </div>
