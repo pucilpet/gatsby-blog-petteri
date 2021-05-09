@@ -1,8 +1,8 @@
 module.exports = {
   title: `Petteri Pucilowski´s personal blog`,
-  description: `I will document my daily learnings on doing business online and the technical side of the it.`,
+  description: `In my blog I will document my daily learnings on doing business online and the technical side of it.`,
   author: `[Petteri Pucilowski]`,
-  introduction: `My learnings on doing business online and the technical side of the it. The main focus is developing the customer journey.`,
+  introduction: `My learnings on doing business online. My current main focus is developing the customer journey - from UX to the customer service.`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: `https://twitter.com/pucilpet`, // Your Twitter account
