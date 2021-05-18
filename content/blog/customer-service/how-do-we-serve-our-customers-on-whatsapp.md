@@ -2,9 +2,11 @@
 title: How do we serve our customers on WhatsApp?
 date: 2021-05-18 20:05:16
 category: 'customer-service'
-thumbnail: { thumbnailSrc }
+thumbnail: ./images/whatsapp-service.jpg
 draft: false
 ---
+
+![](./images/whatsapp-service.jpg)
 
 - [Why we chose WhatsApp?](#why-we-chose-whatsapp)
 - [Getting started with WhatsApp](#getting-started-with-whatsapp)
