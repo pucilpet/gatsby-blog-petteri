@@ -27,7 +27,7 @@ We have been struggling with the speed of our Prestashop site. Either we would h
 
 Then I came across <a href="https://blink-cart.com" target="_blank">Blink-cart.com</a> and their offer of turning a Prestashop or a Magento site into a super fast React site (SPA, Single page application) was very appealing. The way it works is that the back end will use Prestashop but the front end will use a custom, React-powered theme (using GatsbyJS framework). The data will be pulled from Prestashop using a series of APIs and Prestashop webservice.
 
-After talking with their team, we started work on our project. Our shop needed some extra work since we use a few custom plugins that we absolutely needed to include, e.g. a custom reviews module and a Perfect size widget. But they were happy to work with us to design a perfect solution for us.
+After talking with their team, we started work on our project. <a href="https://www.hersecret.fi/" target="_blank">Our shop</a> needed some extra work since we use a few custom plugins that we absolutely needed to include, e.g. a custom reviews module and a Perfect size widget. But they were happy to work with us to design a perfect solution for us.
 
 # Results
 
