@@ -96,3 +96,5 @@ Even though it is not as important as it used to be, it's still a good idea to o
 Even though it has some caveats (e.g. rebuilding when you update some of your products, extra work for some of the custom modules you might want to use) I can recommend migrating to React. The performance and usability improvements far outweigh the negative sides of using React.
 
 In my next posts I will dive into Google search console and analytics to see what is the real impact on the page speed (measured by Google) and how does the change impact our search rankings (might have revisit that after a while since the change will not be instant.)
+
+P.S. Currently we are working to improve the CLS (Cumulative Layout Shift) to improve the usability score and hence the Google search rankings.
