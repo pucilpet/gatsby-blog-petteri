@@ -25,7 +25,7 @@ We have been struggling with the speed of our Prestashop site. Either we would h
 
 # Blink-cart
 
-Then I came across <a href="https://blink-cart.com" target="_blank">Blink-cart</a> and their offer of turning a Prestashop or a Magento site into a super fast React site (SPA, Single page application) was very appealing. The way it works is that the back end will use Prestashop but the front end will use a custom, React-powered theme (using GatsbyJS framework). The data will be pulled from Prestashop using a series of APIs and Prestashop webservice.
+Then I came across <a href="https://blink-cart.com" target="_blank">Blink-cart.com</a> and their offer of turning a Prestashop or a Magento site into a super fast React site (SPA, Single page application) was very appealing. The way it works is that the back end will use Prestashop but the front end will use a custom, React-powered theme (using GatsbyJS framework). The data will be pulled from Prestashop using a series of APIs and Prestashop webservice.
 
 After talking with their team, we started work on our project. Our shop needed some extra work since we use a few custom plugins that we absolutely needed to include, e.g. a custom reviews module and a Perfect size widget. But they were happy to work with us to design a perfect solution for us.
 
@@ -61,7 +61,7 @@ As you can see, our most important pages (Product pages) leave a lot be desired.
 ![](./images/spa-category-mobile.jpg)
 
 **Product page**
-![](./images/spa-product-mobile.jpg)
+![](./images/spa-product-mobile_1.jpg)
 
 So here we can see a huge improvement, especially on the product page. And in the end we lose almost no functionatily compared to a native Prestashop theme. If it weren't for some of our custom plugins we would see +80 results on the product pages, too.
 
@@ -96,5 +96,7 @@ Even though it is not as important as it used to be, it's still a good idea to o
 Even though it has some caveats (e.g. rebuilding when you update some of your products, extra work for some of the custom modules you might want to use) I can recommend migrating to React. The performance and usability improvements far outweigh the negative sides of using React.
 
 In my next posts I will dive into Google search console and analytics to see what is the real impact on the page speed (measured by Google) and how does the change impact our search rankings (might have revisit that after a while since the change will not be instant.)
+
+If you are interested in trying how fast your Prestashop site can work as a SPA / React website, go ahead and launch a test site on <a href="https://blink-cart.com" target="_blank">Blink-cart.com</a>.
 
 P.S. Currently we are working to improve the CLS (Cumulative Layout Shift) to improve the usability score and hence the Google search rankings.
