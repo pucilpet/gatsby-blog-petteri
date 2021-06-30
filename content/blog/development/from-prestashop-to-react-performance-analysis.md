@@ -104,6 +104,8 @@ P.S. Currently we are working to improve the CLS (Cumulative Layout Shift) to im
 
 # 30.6.2021 Update
 
-We worked on the CLS of the product pages (on mobile) with the Blink Cart team and improved the results a lot. This is the new Google pagespeed result on the mobile (the mobile score was 69 and now we are scoring 79 on the Google pagespeed)
+We worked on the CLS of the product pages (on mobile) with the <a href="https://blink-cart.com" target="_blank">Blink Cart</a> team and improved the results a lot. This is the new Google pagespeed result on the mobile (the mobile score was 69 and now we are scoring 79 on the Google pagespeed)
 
 ![](./images/cls-improved-mobile.jpg)
+
+Currently I am working on a post in which I will compare the conversion rates between the Prestashop site and the new React site.
