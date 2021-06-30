@@ -16,6 +16,7 @@ draft: false
     - [Prestashop results on desktop](#prestashop-results-on-desktop)
     - [React results on desktop](#react-results-on-desktop)
   - [Summary](#summary)
+- [30.6.2021 Update](#3062021-update)
 
 # Why React
 
@@ -100,3 +101,9 @@ In my next posts I will dive into Google search console and analytics to see wha
 If you are interested in trying how fast your Prestashop site can work as a SPA / React website, go ahead and launch a test site on <a href="https://blink-cart.com" target="_blank">Blink-cart.com</a>.
 
 P.S. Currently we are working to improve the CLS (Cumulative Layout Shift) to improve the usability score and hence the Google search rankings.
+
+# 30.6.2021 Update
+
+We worked on the CLS of the product pages (on mobile) with the Blink Cart team and improved the results a lot. This is the new Google pagespeed result on the mobile (the mobile score was 69 and now we are scoring 79 on the Google pagespeed)
+
+![](./images/cls-improved-mobile.jpg)
