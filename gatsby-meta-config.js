@@ -13,7 +13,7 @@ module.exports = {
     instagram: `hersecretfi`, // Your Instagram account
   },
   icon: `content/assets/profile.png`, // Add your favicon
-  keywords: [`blog`],
+  keywords: [`blog, business, ecommerce, prestashop, ux, react`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
     utterances: 'pucilpet/gatsby-blog-petteri', // Your repository for archive comment
@@ -27,5 +27,5 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: '0', // Add your google analytics tranking ID
+  ga: 'UA-201057324-1', // Add your google analytics tranking ID
 }
