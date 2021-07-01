@@ -11,9 +11,9 @@ Hello World 🌎 - I would like to talk 🔈 about myself a little in my first a
 
 ### New venture - HerSecret.fi
 
-And as a result [HerSecret.fi](https://www.hersecret.fi/) was born. After just a few months we started to see it had been the right decision - we were turning a profit. Hooray! Since then we have been growing steadily and improving our service - we are proud of what we've become.
+And as a result [HerSecret.fi](https://www.hersecret.fi/) was born. After just a few months we started to see it had been the right decision - we were turning a profit. Hooray! Since then we have been growing steadily, adding more items to our catalogue and improving our service - we are proud of what we've become. We serve +100k Finnish customers and are looking to expand to neighboring countries.
 
-> As our logistics operations have been outsourced to `Axla Logistics` since the beginning, we have had the chance to develop unique customer journeys and provide top notch service online - we pride ourselves with being the fastest to answer any queries and we offer same day deliveries which is very rare in Finland.
+> As our logistics operations have been outsourced to `Axla Logistics` since the beginning, we have had the chance to develop unique customer journeys and provide top notch service online - we pride ourselves with being the fastest to answer any queries and we even offer same day deliveries to some cities.
 
 ### The technical side of the business
 
@@ -25,8 +25,8 @@ As a part of our business operations I have also setup a lot of automations and 
 
 ### Building new chat experiences
 
-Lately I have been building multi-channel chat experiences - for the customer service team it's a must to have all the channels (Email, Chat, Facebook Messenger, SMS and WhatsApp) in the same portal. It is also important that the agents can easily find the customer data - and I have implemented a solution that queries for customer data from our Prestashop back end and provides it in the customer service portal instantly.
+Lately I have been building multi-channel chat experiences - for the customer service team it's a must to have all the channels (Email, Chat, Facebook Messenger, SMS and WhatsApp) in the same portal. It is also important that the agents can easily find the customer data - and I have implemented a solution that queries for customer data from our Prestashop back end and provides it in the customer service portal instantly. This helps streamline the customer service process even further when the personnel don't have to jump between several systems.
 
 ### New builds with React (and GatsbyJS)
 
-I am also building some lightning fast Jamstack applications using React, GatsbyJS and `NextJS` to provide even better online experiences. For reference on the NextJS application please see [blog.hersecret.fi](https://blog.hersecret.fi). This blog is built on `GatsbyJS`.
+I am also building some lightning fast Jamstack applications using React, GatsbyJS and `NextJS` to provide even better online experiences. For reference on the NextJS application please see [blog.hersecret.fi](https://blog.hersecret.fi). This blog is built on `GatsbyJS`. Our ecommerce site (<a href="https://www.hersecret.fi" target="blank">www.hersecret.fi</a>) is also running on a custom GatsbyJS build powered by <a href="https://blink-cart.com" target="blank">Blink-cart.com</a>.
