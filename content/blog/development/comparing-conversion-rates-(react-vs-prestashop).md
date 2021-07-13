@@ -38,7 +38,7 @@ Also our average value per visitor has increased - with Prestashop it was 1,86â‚
 **Prestashop value per visitor**
 ![](./images/aov-prestashop.jpg)
 
-**Prestashop value per visitor**
+**React value per visitor**
 ![](./images/aov-react.jpg)
 
 ## Google Analytics 4
