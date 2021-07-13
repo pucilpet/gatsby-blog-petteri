@@ -29,7 +29,7 @@ Our conversion rate has increased from 2,7% to 4,2%. That is more than a 55 perc
 ![](./images/analytics-prestashop.jpg)
 
 **React conversion rate**
-![](./images/analytics-react.jpg)
+![](./images/analytics-react2.jpg)
 
 ## Average value per visitor
 
